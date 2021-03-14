@@ -1,5 +1,10 @@
 ---
 title: "VIM is your friend, you just need to get to know him."
+
+image: 
+  path: /assets/images/vim-is-your-close-friend400x200.png
+  thumbnail: /assets/images/vim-is-your-close-friend400x200.png
+
 categories:
     - Data science 
 tags:
@@ -8,9 +13,6 @@ tags:
 author: alfredo 
 
 ---
-
-
-![vim is your friend](/assets/images/vim-is-your-close-friend.png)
 
 So there I was, with a completely black screen on my terminal trying to type something but every key I pressed was only making everything worse. Never have I thought typing a letter would be such a pain. 
 Suddenly, my technique on typing every letter in my keyboard was rewarded with an `f` . "So my keyboard was not borken", I thought.
