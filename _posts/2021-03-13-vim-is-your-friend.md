@@ -103,7 +103,7 @@ Do not feel overwhelmed with the robustness of this text editor. Practice makes 
 
 
 
-### **Enjoy your FIKA!**
+### **Enjoy your Fika!**
 
 
 
