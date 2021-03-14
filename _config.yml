@@ -16,7 +16,7 @@
 lang: en-US
 title: fikandata 
 email: fikandata@gmail.com
-description: "Blog about coffee and data"
+description: "A place where science and coffee meet to fika"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://fikandata.github.io"
 author: 
