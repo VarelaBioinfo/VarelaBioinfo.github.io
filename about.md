@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: about
+
 ---
 
 # Alfredo Varela Vega 
