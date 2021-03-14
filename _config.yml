@@ -21,7 +21,7 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://fikandata.github.io"
 author: 
   name: Alfredo Varela Vega 
-  twitter: "https://twitter.com/home"
+  twitter: "https://twitter.com/fikandata"
   picture: /assets/images/change-size-portrait.jpg
 twitter_username: "@fikandata"
 github_username: "fikandata"
