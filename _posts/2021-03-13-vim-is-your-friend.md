@@ -1,12 +1,15 @@
 ---
 title: "VIM is your friend, you just need to get to know him."
 categories:
-    - Post Formats
+    - Data science 
 tags:
-    - Post Formats
-    - readability
-    - standard
+    - VIM 
+    - basic 
+author: alfredo 
+
 ---
+
+
 ![vim is your friend](/assets/images/vim-is-your-close-friend.png)
 
 So there I was, with a completely black screen on my terminal trying to type something but every key I pressed was only making everything worse. Never have I thought typing a letter would be such a pain. 
