@@ -1,5 +1,5 @@
 ---
-title: "VIM is your friend, you just need to get to know him."
+title: "VIM is your friend, you just need to get to know it."
 
 image: 
   path: /assets/images/vim-is-your-close-friend400x200.png
