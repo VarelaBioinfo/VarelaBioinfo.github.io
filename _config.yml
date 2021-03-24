@@ -76,7 +76,7 @@ exclude:
 
 # Enable disqus comments 
 disqus:
-  shortname: disqus_t92sZAZxyZ
+  shortname: fikandata
 
 # Enable google analytics
 google_analytics: G-Q1QL435QLZ
