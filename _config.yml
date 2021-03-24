@@ -74,6 +74,10 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+# Enable disqus comments 
+disqus:
+  shortname: disqus_t92sZAZxyZ
+
 # Enable google analytics
 google_analytics: G-Q1QL435QLZ
 
