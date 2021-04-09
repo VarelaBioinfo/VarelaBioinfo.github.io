@@ -90,3 +90,10 @@ defaults:
     values:
       layout: post
       read_time: true
+# Added in order to render _drafts
+  - scope:
+      path: "_drafts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
