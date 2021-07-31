@@ -2,11 +2,11 @@
 title: "VIM is your friend, you just need to get to know it."
 
 image: 
-  path: /assets/images/vim-is-your-close-friend400x200.png
-  thumbnail: /assets/images/vim-is-your-close-friend400x200.png
+  path: /assets/images/posts/vim-is-your-friend/mates-vim-logo-640x427.png
+  thumbnail: /assets/images/posts/vim-is-your-friend/mates-vim-logo-640x427.png
 
 categories:
-    - Data science 
+    - Text editor
 tags:
     - VIM 
     - basic 
@@ -108,7 +108,7 @@ Do not feel overwhelmed with the robustness of this text editor. Practice makes 
 
 
 
-### **Enjoy your Fika!**
+### **Extracting insights**
 
 
 

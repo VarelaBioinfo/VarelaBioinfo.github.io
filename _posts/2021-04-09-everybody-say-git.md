@@ -1,17 +1,17 @@
 ---
 title: "1,2,3... Everybody say Commit!"
 image:
-  path: /assets/images/posts/git-it-out-loud/seth-doyle-VBoa34qcW4w-unsplash.jpg 
-  thumbnail: /assets/images/posts/git-it-out-loud/seth-doyle-VBoa34qcW4w-unsplash640x426.jpg
+  path: /assets/images/posts/git-it-out-loud/isiah-rustad-git-logo-640x426.png
+  thumbnail: /assets/images/posts/git-it-out-loud/isiah-rustad-git-logo-640x426.png
 categories:
-- Data science 
+- Version control 
 tags:
 - Git 
 - Github 
 - basic
 author: alfredo
 ---
-**Probably I was not the only person in the world saving every little change I made to my code. Fear is one of the most common feelings in nature, it keeps you alert and alive, yet it can paralize yourself and stop you from creating marvelous things. Sometimes coding can be challenging. While you can spend two hours writing a few lines it can take less than a second to loose everything. All that hard work must be adequately stored and accessible and for that there must be an efficient way.**
+Probably I was not the only person in the world saving every little change I made to my code. Fear is one of the most common feelings in nature, it keeps you alert and alive, yet it can paralize yourself and stop you from creating marvelous things. Sometimes coding can be challenging. While you can spend two hours writing a few lines it can take less than a second to loose everything. All that hard work must be adequately stored and accessible and for that there must be an efficient way.
 
 # So Version Control ha!
 
@@ -98,9 +98,7 @@ git branch -d branch-with-name-you-want
 
 Git is a tool widely used by developers because of it's power, ease of teamwork and open-source development. Keep practicing the workflow and commands will become second nature to you. It's worth it! 
 
-### Enjoy your FIKA
-
-
-Photo by <a href="https://unsplash.com/@sethdoylee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Seth Doyle</a> on <a href="https://unsplash.com/s/photos/yell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Extracting insights
   
-
+Photo by <a href="https://unsplash.com/@isaiahrustad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Isaiah Rustad</a> on <a href="https://unsplash.com/s/photos/women-sports-team?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

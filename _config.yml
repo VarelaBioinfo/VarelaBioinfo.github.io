@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: fikandata 
-email: fikandata@gmail.com
-description: "A place where science and coffee meet to fika"
+title: VarelaMetrics 
+email: varelametrics@gmail.com
+description: "The answer is already in the data that you have."
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://fikandata.github.io"
+url: "https://varelametrics.github.io"
 author: 
   name: Alfredo Varela Vega 
-  twitter: "https://twitter.com/fikandata"
-  picture: /assets/images/change-size-portrait.jpg
-twitter_username: "@fikandata"
-github_username: "fikandata"
-logo: /assets/images/john-salzarulo-Hl1stIQkVRw-unsplash.jpg # path of site logo, e.g. "/assets/images/logo.png"
+  twitter: "https://twitter.com/VarelaMetrics"
+  picture: /assets/images/varela-metrics/2021-07-91-profile-edit-400x300.png
+twitter_username: "@VarelaMetrics"
+github_username: "VarelaMetrics"
+logo: /assets/images/varela-metrics/varela-metrics-logo.png# path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
@@ -81,6 +81,12 @@ disqus:
 # Enable google analytics
 google_analytics: G-Q1QL435QLZ
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # _posts
@@ -96,4 +102,12 @@ defaults:
       type: posts
     values:
       layout: post
+      read_time: true
+
+# Added to render _porfolio 
+  - scope:
+      path: "_portfolio"
+      type: portfolio 
+    values:
+      layout: collection 
       read_time: true

@@ -1,5 +1,7 @@
-# Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+#
+#Theme Skin
+#skin: default # default, night, plum, sea, soft, steel
+skin: varela-metrics2
 
 # Theme Text
 t:
@@ -35,6 +37,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - portfolio.md
   - cv.md
   - posts.md
   - categories.md
