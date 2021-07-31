@@ -25,7 +25,7 @@ knitr::opts_chunk$set(fig.path = fig_path,
                       cache = TRUE) 
 ```
 
-With the next Hungarian GP taking place, Red Bull Racing Honda is leading the 2021 Constructor Standings by only 4 points. In the haunt is Mercedes with his two drivers Lewis Hamilton and Valtteri Bottas placing 2nd and 4th respectively in the Driver Standings. 
+With the next Hungarian GP taking place, Red Bull Racing Honda is leading the 2021 Constructor Standings by only 4 points. In the haunt is Mercedes with their two drivers Lewis Hamilton and Valtteri Bottas, placing 2nd and 4th respectively in the Driver Standings. 
 
 After a controversial  accident in Silverstone leaving Verstappen out of the race, Red Bull's pilot is still leading the Driver Standings. In the other hand, his teammate Sergio Pérez could only steal Mercedes the extra point awarded for fastest lap, leaving him in the 5th position just 9 points away from 3rd place. 
 
