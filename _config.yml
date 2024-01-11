@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: VarelaMetrics 
-email: varelametrics@gmail.com
+title: VarelaBioinfo
+email: varelabioinfo@gmail.com
 description: "The answer is already in the data that you have."
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://varelametrics.github.io"
