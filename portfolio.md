@@ -11,7 +11,7 @@ entries_layout: grid
 
 ### The methodology I use:
 
-#### 1. Business understanding
+#### 1. Domain knowledge
 #### 2. Data understanding
 #### 3. Data preparation
 #### 4. Modeling
