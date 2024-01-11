@@ -22,7 +22,6 @@ url: "https://varelabioinfo.github.io"
 author: 
   name: Alfredo Varela Vega 
   twitter: "https://twitter.com/VarelaBioinfo"
-  facebook: "https://www.facebook.com/VarelaBioinfo/"
   picture: /assets/images/varela-metrics/2021-07-91-profile-edit-400x300.png
 twitter_username: "@VarelaBioinfo"
 github_username: "VarelaBioinfo"
@@ -77,7 +76,7 @@ exclude:
 
 # Enable disqus comments 
 disqus:
-  shortname: fikandata
+  shortname: https-varelabioinfo-github-io
 
 # Enable google analytics
 google_analytics: G-Q1QL435QLZ
