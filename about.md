@@ -7,7 +7,9 @@ layout: about
 
 ## Nice to meet you!
 
-I'm a biological data scientist in training at the Genomics program of the **National Autonomous University of Mexico**. But please, don't leave with the wrong idea, I love to analyze all kind of interesting datasets. Particularly, I'm interested in sports data due to my undeniable passion for them. 
+As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonomous University of Mexico (UNAM), my goal is to transcend the boundaries across diverse data modalities, including omics technologies, electronic health records, wearable biosensors, biomedical literature, and environmental information. My mission is to reshape the frontiers of personalized healthcare by seamlessly integrating and interpreting this wealth of data. Through these efforts, I envision contributing to a new era of healthcare that elevates the quality of life for each unique individual.
+
+In my spare time I love to analyze all kind of interesting datasets. Particularly, I'm interested in sports data due to my undeniable passion for them. 
 
 > Isn't it spectacular how the perspective of the game changes under the sports analytics lens?
 
