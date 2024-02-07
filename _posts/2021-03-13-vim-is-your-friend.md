@@ -2,8 +2,8 @@
 title: "VIM is your friend, you just need to get to know it."
 
 image: 
-  path: /assets/images/posts/vim-is-your-friend/mates-vim-logo-640x427.png
-  thumbnail: /assets/images/posts/vim-is-your-friend/mates-vim-logo-640x427.png
+  path: /assets/images/posts/vim-is-your-friend/gabriel-heinzer-vim-logo-640x426.png
+  thumbnail: /assets/images/posts/vim-is-your-friend/gabriel-heinzer-vim-logo-640x426.png
 
 categories:
     - Text editor
@@ -110,6 +110,8 @@ Do not feel overwhelmed with the robustness of this text editor. Practice makes 
 
 ### **Extracting insights**
 
+Photo by <a href="https://unsplash.com/@6heinz3r?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Gabriel Heinzer</a> on <a href="https://unsplash.com/photos/green-and-black-digital-device-xbEVM6oJ1Fs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 
 
