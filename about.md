@@ -13,15 +13,19 @@ layout: about
 
 As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonomous University of Mexico (UNAM), my goal is to transcend the boundaries across diverse data modalities, including omics technologies, electronic health records, wearable biosensors, biomedical literature, and environmental information. My mission is to reshape the frontiers of personalized healthcare by integrating and interpreting this wealth of data. In my pursuit, I envision contributing to a new era of healthcare that elevates the quality of life for each unique individual.
 
+--- 
+
 ### My tools 
 
-To generate meaningful insights from complex datasets I utilize <u>>Python for data exploration, visualization and preparatio</u> using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of R for data exploration, visualization, statistical analysis, and modeling, including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
+To generate meaningful insights from complex datasets I utilize <u>Python for data exploration, visualization and preparatio</u> using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of <span stylye="color:#fcb35a ;">R for data exploration, visualization, statistical analysis, and modeling</span> , including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
 
 I also specialize in machine learning techniques, utilizing scikit-learn for feature selection, classification, clustering, and handling unbalanced data, as well as deep learning frameworks such as Pytorch-lightning, Mindspore, Transformers, and WandB which enable me to create my predictive analysis. 
  
 Furthermore, I have experience with high throughput analysis methodologies, including sequence quality and filtering using tools like FastQC and Trimmomatic, genome assembly with Velvet, canu, and SPades, and prediction and functional annotation with Glimmer3 and Prokka. 
 
 ![me again](assets/images/portrait.jpg)
+
+--- 
 
 ### Hobbies
 
