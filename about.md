@@ -13,7 +13,7 @@ As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonom
 
 ### My tools 
 
-To generate meaningful insights from complex datasets I utilize **Python for data exploration, visualization and preparation** using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of R for data exploration, visualization, statistical analysis, and modeling, including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
+To generate meaningful insights from complex datasets I utilize ::Python for data exploration, visualization and preparation:: using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of R for data exploration, visualization, statistical analysis, and modeling, including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
 
 I also specialize in machine learning techniques, utilizing scikit-learn for feature selection, classification, clustering, and handling unbalanced data, as well as deep learning frameworks such as Pytorch-lightning, Mindspore, Transformers, and WandB which enable me to create my predictive analysis. 
  
