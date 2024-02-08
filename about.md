@@ -17,7 +17,7 @@ As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonom
 
 ### My tools 
 
-To generate meaningful insights from complex datasets I utilize <u>Python for data exploration, visualization and preparatio</u> using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of <span stylye="color:#fcb35a ;">R for data exploration, visualization, statistical analysis, and modeling</span> , including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
+To generate meaningful insights from complex datasets I utilize <u>Python for data exploration, visualization and preparatio</u> using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of <span stylye="color: #fcb35a;">R for data exploration, visualization, statistical analysis, and modeling</span> , including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
 
 I also specialize in machine learning techniques, utilizing scikit-learn for feature selection, classification, clustering, and handling unbalanced data, as well as deep learning frameworks such as Pytorch-lightning, Mindspore, Transformers, and WandB which enable me to create my predictive analysis. 
  
@@ -34,6 +34,8 @@ In my spare time I love to analyze all kind of interesting datasets. Particularl
 > Isn't it spectacular how the perspective of the game changes under the sports analytics lens?
 
 Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing Muay Thai and fresstyle slalom skating.
+
+---
 
 ### Fun facts 
 
