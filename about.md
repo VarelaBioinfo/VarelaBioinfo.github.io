@@ -35,7 +35,7 @@ In my spare time I love to analyze all kind of interesting datasets. Particularl
 
 > Isn't it spectacular how the perspective of the game changes under the sports analytics lens?
 
-Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing [Muay Thai](https://www.youtube.com/watch?v=BBSV6f2JNEA&t=10s) and [fresstyle slalom skating](https://www.youtube.com/watch?v=xdFE2SvWfFo].
+Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing [Muay Thai](https://www.youtube.com/watch?v=BBSV6f2JNEA&t=10s) and [fresstyle slalom skating](https://www.youtube.com/watch?v=xdFE2SvWfFo).
 
 ---
 
