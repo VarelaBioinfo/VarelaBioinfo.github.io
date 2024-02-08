@@ -19,11 +19,11 @@ My mission is to reshape the frontiers of personalized healthcare by integrating
 
 ### My tools 
 
-To generate meaningful insights from complex datasets I utilize <u>Python for data exploration, visualization and preparation</u> using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of <span style="color: #fcb35a;">R for data exploration, visualization, statistical analysis, and modeling</span> , including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
+To generate meaningful insights from complex datasets I utilize <span style="color: #fcb35a;">Python for data exploration, visualization and preparation</span> using libraries such as pandas, NumPy, Pyplot, Plotly, seaborn, and Biopython. Additionally, my knowledge of <span style="color: #fcb35a;">R for data exploration, visualization, statistical analysis, and modeling</span> , including the use of tidyverse, ggplot, base R, Bioconductor, and Rmarkdown, allows me to perform comprehensive analyses of genomic and health data. 
 
-I also specialize in *machine learning techniques*, utilizing scikit-learn for feature selection, classification, clustering, and handling unbalanced data, as well as deep learning frameworks such as Pytorch-lightning, Mindspore, Transformers, and WandB which enable me to create my predictive analysis. 
+I also specialize in <span style="color: #fcb35a;">machine learning techniques</span>, utilizing scikit-learn for feature selection, classification, clustering, and handling unbalanced data, as well as <span style="color: #fcb35a;"deep learning frameworks</span> such as Pytorch-lightning, Mindspore, Transformers, and WandB which enable me to create my predictive analysis. 
  
-Furthermore, I have experience with high throughput analysis methodologies, including sequence quality and filtering using tools like FastQC and Trimmomatic, genome assembly with Velvet, canu, and SPades, and prediction and functional annotation with Glimmer3 and Prokka. 
+Furthermore, I have experience with <span syle="color: #fcb35a;">high throughput analysis methodologies</span>, including sequence quality and filtering using tools like FastQC and Trimmomatic, genome assembly with Velvet, canu, and SPades, and prediction and functional annotation with Glimmer3 and Prokka. 
 
 ![me again](assets/images/portrait.jpg)
 
@@ -35,7 +35,7 @@ In my spare time I love to analyze all kind of interesting datasets. Particularl
 
 > Isn't it spectacular how the perspective of the game changes under the sports analytics lens?
 
-Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing Muay Thai and fresstyle slalom skating.
+Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing (Muay Thai)[https://www.youtube.com/watch?v=BBSV6f2JNEA&t=10s] and (fresstyle slalom skating)[https://www.youtube.com/watch?v=xdFE2SvWfFo].
 
 ---
 
