@@ -7,7 +7,7 @@ layout: about
 
 ## Nice to meet you!
 
-### My vision
+### **My vision**
 
 As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonomous University of Mexico (UNAM), my goal is to transcend the boundaries across diverse data modalities, including omics technologies, electronic health records, wearable biosensors, biomedical literature, and environmental information. My mission is to reshape the frontiers of personalized healthcare by seamlessly integrating and interpreting this wealth of data. In my pursuit, I envision contributing to a new era of healthcare that elevates the quality of life for each unique individual.
 
