@@ -11,9 +11,9 @@ layout: about
 
 ### My vision
 
-<span style="color: #fcb35a;">As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonomous University of Mexico (UNAM), my goal is to transcend the boundaries across diverse data modalities, including omics technologies, electronic health records, wearable biosensors, biomedical literature, and environmental information. 
+<span style="color: #fcb35a;">As a Bioinformatician with a B.Sc. in Genomic Sciences from the National Autonomous University of Mexico (UNAM), my goal is to transcend the boundaries across diverse data modalities, including omics technologies, electronic health records, wearable biosensors, biomedical literature, and environmental information.</span> 
 
-My mission is to reshape the frontiers of personalized healthcare by integrating and interpreting this wealth of data. In my pursuit, I envision contributing to a new era of healthcare that elevates the quality of life for each unique individual.</span>
+<span style="color: #fcb35a;">My mission is to reshape the frontiers of personalized healthcare by integrating and interpreting this wealth of data. In my pursuit, I envision contributing to a new era of healthcare that elevates the quality of life for each unique individual.</span>
 
 --- 
 
@@ -35,7 +35,7 @@ In my spare time I love to analyze all kind of interesting datasets. Particularl
 
 > Isn't it spectacular how the perspective of the game changes under the sports analytics lens?
 
-Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing (Muay Thai)[https://www.youtube.com/watch?v=BBSV6f2JNEA&t=10s] and (fresstyle slalom skating)[https://www.youtube.com/watch?v=xdFE2SvWfFo].
+Apart from sports & data science, I love reading, [coffee brewing](https://twitter.com/fikandatautoma), exploring my sense of smell, running, practicing [Muay Thai](https://www.youtube.com/watch?v=BBSV6f2JNEA&t=10s) and [fresstyle slalom skating](https://www.youtube.com/watch?v=xdFE2SvWfFo].
 
 ---
 
